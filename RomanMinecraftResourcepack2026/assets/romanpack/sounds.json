@@ -1,0 +1,10 @@
+{
+    "music_disc.jane": {
+        "sounds": [
+            {
+                "name": "romanpack:records/jane",
+                "stream": true
+            }
+        ]
+    }
+}
